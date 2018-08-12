@@ -1,0 +1,9 @@
+c:\users\adnan\documents\visual studio 2010\Projects\RegistarskeTablice\RegistarskeTablice\bin\Debug\RegistarskeTablice.exe
+c:\users\adnan\documents\visual studio 2010\Projects\RegistarskeTablice\RegistarskeTablice\bin\Debug\RegistarskeTablice.pdb
+c:\users\adnan\documents\visual studio 2010\Projects\RegistarskeTablice\RegistarskeTablice\obj\x86\Debug\RegistarskeTablice.Form1.resources
+c:\users\adnan\documents\visual studio 2010\Projects\RegistarskeTablice\RegistarskeTablice\obj\x86\Debug\RegistarskeTablice.Properties.Resources.resources
+c:\users\adnan\documents\visual studio 2010\Projects\RegistarskeTablice\RegistarskeTablice\obj\x86\Debug\RegistarskeTablice.csproj.GenerateResource.Cache
+c:\users\adnan\documents\visual studio 2010\Projects\RegistarskeTablice\RegistarskeTablice\obj\x86\Debug\RegistarskeTablice.exe
+c:\users\adnan\documents\visual studio 2010\Projects\RegistarskeTablice\RegistarskeTablice\obj\x86\Debug\RegistarskeTablice.pdb
+C:\Users\Adnan\Documents\Visual Studio 2010\Projects\RegistarskeTablice\RegistarskeTablice\obj\x86\Debug\RegistarskeTablice.csprojResolveAssemblyReference.cache
+C:\Users\Adnan\Documents\Visual Studio 2010\Projects\RegistarskeTablice\RegistarskeTablice\bin\Debug\MetroFramework.dll
